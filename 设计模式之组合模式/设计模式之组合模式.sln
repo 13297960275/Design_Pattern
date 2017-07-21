@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "设计模式之组合模式", "设计模式之组合模式\设计模式之组合模式.csproj", "{D846720A-AE92-45C2-AF8E-4F8688AC8B2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "安全式的组合模式", "安全式的组合模式\安全式的组合模式.csproj", "{ACDD09FD-9AE2-415E-B03B-17B4027944E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D846720A-AE92-45C2-AF8E-4F8688AC8B2F}.Debug|x86.ActiveCfg = Debug|x86
+		{D846720A-AE92-45C2-AF8E-4F8688AC8B2F}.Debug|x86.Build.0 = Debug|x86
+		{D846720A-AE92-45C2-AF8E-4F8688AC8B2F}.Release|x86.ActiveCfg = Release|x86
+		{D846720A-AE92-45C2-AF8E-4F8688AC8B2F}.Release|x86.Build.0 = Release|x86
+		{ACDD09FD-9AE2-415E-B03B-17B4027944E3}.Debug|x86.ActiveCfg = Debug|x86
+		{ACDD09FD-9AE2-415E-B03B-17B4027944E3}.Debug|x86.Build.0 = Debug|x86
+		{ACDD09FD-9AE2-415E-B03B-17B4027944E3}.Release|x86.ActiveCfg = Release|x86
+		{ACDD09FD-9AE2-415E-B03B-17B4027944E3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
